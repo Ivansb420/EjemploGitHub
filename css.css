@@ -1,0 +1,27 @@
+div {
+	border: 3px solid blue;  
+	width: 350px;
+	margin: auto;
+	padding: 0px 10px 10px 10px;
+}
+
+fieldset {
+	width: 320px;
+}
+
+.nombre {
+	width: 250px;
+}
+
+.descripcion {
+	width: 300px;
+	height: 80px;
+}
+
+.precio {
+	width: 50px;
+}
+
+.foto {
+	width: 100px;
+}
